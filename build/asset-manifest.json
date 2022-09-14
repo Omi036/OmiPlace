@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.306012e3.css",
+    "main.js": "./static/js/main.906146ae.js",
+    "static/media/ReadexPro.ttf": "./static/media/ReadexPro.4fc42712cc7e04fe5f45.ttf",
+    "static/media/react.png": "./static/media/react.70e4bad034f1517ec89e.png",
+    "static/media/electron.png": "./static/media/electron.f3aa3106c965dfaf3998.png",
+    "static/media/lua.png": "./static/media/lua.6192599ca08bd70d6095.png",
+    "static/media/php.png": "./static/media/php.291ea42d814995730d08.png",
+    "static/media/github.png": "./static/media/github.f3da93ada73f257cd8fb.png",
+    "static/media/c.png": "./static/media/c.c108195a0047cb037421.png",
+    "static/media/mdn.png": "./static/media/mdn.0f8b59f85b7c161c0f3e.png",
+    "static/media/mongodb.png": "./static/media/mongodb.60fc03a416267ccecd3b.png",
+    "static/media/python.png": "./static/media/python.2dcc48048f6242aa0802.png",
+    "static/media/css.png": "./static/media/css.09e44d3b5e4836d3a061.png",
+    "static/media/html.png": "./static/media/html.01f47fa08f0aded79e63.png",
+    "static/media/discordjs.png": "./static/media/discordjs.e5849bc938858a874a6f.png",
+    "static/media/email.png": "./static/media/email.a1a087af96fcfb27012b.png",
+    "static/media/robloxdev.png": "./static/media/robloxdev.e8c37ad77d286f75b850.png",
+    "static/media/javascript.png": "./static/media/javascript.9d199aeaece46c3b599b.png",
+    "index.html": "./index.html",
+    "main.306012e3.css.map": "./static/css/main.306012e3.css.map",
+    "main.906146ae.js.map": "./static/js/main.906146ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306012e3.css",
+    "static/js/main.906146ae.js"
+  ]
+}
